@@ -55,7 +55,7 @@ $ npm run generate
 
 <div align="center">
 
-**:alien: Qr On The Go 👽**
+**Word ♻️ Replacer**
 released under the [MIT](LICENSE) License.
 <br><br>
 
