@@ -1,7 +1,7 @@
 # Word ♻️ Replacer
 
 <div align="center">
-Replace a recurring word in your text with a simple click ⚡ ! 
+Replace a repeated  word in your text with a simple click ⚡ ! 
 </div>
 
 ### Made using :
